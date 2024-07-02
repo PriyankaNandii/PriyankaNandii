@@ -3,25 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gg&label=Profile%20views&color=0e75b6&style=flat" alt="gg" /> </p>
 
-- 🔭 I’m currently working on [g](g)
-
-- 🌱 I’m currently learning **g**
-
-- 👯 I’m looking to collaborate on [g](g)
-
-- 🤝 I’m looking for help with [g](g)
-
-- 👨‍💻 All of my projects are available at [g](g)
-
-- 📝 I regularly write articles on [g](g)
-
-- 💬 Ask me about **g**
-
-- 📫 How to reach me **g**
-
-- 📄 Know about my experiences [g](g)
-
-- ⚡ Fun fact **g**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
