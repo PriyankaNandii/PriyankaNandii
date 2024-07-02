@@ -1,6 +1,6 @@
 ![Header](https://github.com/PriyankaNandii/PriyankaNandii/blob/main/github-header-image.png)
 
-<p align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
+<p align="center">A passionate  Developer from Bangladesh. I completed my BSc in Computer Science and Engineering. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaNandii&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaNandii" /> </p>
 
 <p align="left"> 
