@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Nandi</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. Dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</h3>
+<p align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. Dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gg&label=Profile%20views&color=0e75b6&style=flat" alt="gg" /> </p>
 
