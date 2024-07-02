@@ -37,7 +37,7 @@
 
 <h3 align="left">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaNandii&theme=merko" alt="PriyankaNandii" /></p>
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaNandii&layout=compact&theme=onedark" alt=PriyankaNandii /></p>
+
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PriyankaNandii&show_icons=true&locale=en&theme=radical" alt="PriyankaNandii" /></p>
 
