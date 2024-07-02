@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyanka Nandi</h1>
 <p align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. Dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gg&label=Profile%20views&color=0e75b6&style=flat" alt="gg" /> </p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaNandii&label=Profile%20views&color=0e75b6&style=flat" alt="gg" /> </p>
 <h3 align="left">Connect with me:</h3>
 <button align="left">
 
-<a href="https://www.linkedin.com/in/priyanka-nandi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-nandi-/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
 
 </button>
 
