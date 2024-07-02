@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyanka Nandi</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</h3>
+<p align="center">A passionate Web Developer from Bangladesh.I completed my BSc in Computer Science and Engineering from Daffodil International University. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaNandii&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaNandii" /> </p>
 
 <p align="left"> 
 
-<div>
-  <a href="https://www.linkedin.com/in/Priyanka Nandi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/priyanka-nandi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Priyanka Nandi" height="30" width="40" /></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-nandi-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Priyanka Nandi" height="30" width="40" /></a></p>
+<div>
+  <a href="https://www.linkedin.com/in/priyanka-nandi-/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
