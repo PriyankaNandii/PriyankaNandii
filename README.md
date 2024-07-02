@@ -16,6 +16,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gg&show_icons=true&locale=en" alt="gg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?priyankanandii=gg&show_icons=true&locale=en" alt="gg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gg&" alt="gg" /></p>
