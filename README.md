@@ -14,8 +14,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: inline-block; padding: 10px; border: 2px solid #000; border-radius: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display: inline-block; padding: 10px; border: 2px solid #000; border-radius: 10px; text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
