@@ -35,7 +35,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Current Steack </h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaNandii&theme=merko" alt="PriyankaNandii" /></p>
 
 
